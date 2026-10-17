@@ -1,6 +1,6 @@
-<p align="center"><img src="cycrus-it-lockup.png" alt="Cycrus IT" height="64"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/Cycrus-Dynamics/.github/main/profile/cycrus-it-lockup.png" alt="Cycrus IT" height="64"></p>
 
-**Cycrus IT** to marka firmy Cycrus Dynamics Filip Zienowicz. Wdrażamy, integrujemy i utrzymujemy systemy dla firm.
+**Cycrus IT** — Wdrażamy, integrujemy i utrzymujemy systemy dla firm.
 
 - **Infrastruktura**: środowiska, monitoring i kopie zapasowe z testami odtworzenia.
 - **Oprogramowanie**: integracje i produkty Cyc, w tym CycKSeF i SelfCyc.
